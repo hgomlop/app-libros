@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Esta aplicación existe para que pueda reportar los libros que me he leido cada año, añadiendo alguna nota y el resto de cosas que se me ocurran para documentar los libros. En la medida de lo posible, cuando esto vaya avanzando y se me ocurran más cosas las iré añadiendo para hacerlo más accesible y desplegarla para 
+Esta aplicación existe para que pueda reportar los libros que me he leido cada año, añadiendo alguna nota y el resto de cosas que se me ocurran para documentar los libros. En la medida de lo posible, cuando esto vaya avanzando y se me ocurran más cosas las iré añadiendo para hacerlo más accesible y desplegarla para poder añadir libros desde mi movil.
 
 ## Estructura App
 
